@@ -53,3 +53,5 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+
+## Consider how to use for project files (e.g. BSA templates, as well as project documents - Project Plans, Specs, SOW etc.
